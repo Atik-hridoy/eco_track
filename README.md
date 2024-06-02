@@ -38,8 +38,8 @@ Contributions are welcome! If you'd like to contribute to Eco Tracker, please fo
 
 ## Credits
 
-- This project was created by [Your Name](https://github.com/your_username).
-- Special thanks to [OpenAI](https://openai.com) for providing language assistance through ChatGPT.
+- This project was created by [atik-hridoy](https://github.com/your_username).
+
 
 ## License
 
